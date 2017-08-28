@@ -1,1 +1,18 @@
-# LearnSQL
+<p align="center">
+  <img src="http://tapoueh.org/img/old/sql-logo.png">
+  </p>
+  
+
+
+
+
+| Notebook                                                                                                                                                                                            | Definition                                                                                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Working With A SQLite Database - 1](http://nbviewer.jupyter.org/github/FauziMaulana/LearnSQL/blob/master/Working%20With%20A%20SQLite%20Database%201.ipynb)                                         | Working with Pandas and the SQLite library to connect the database, extract data, and perform analysis on the data.                                                                   |
+| [Working With A SQLite Database - 2](http://nbviewer.jupyter.org/github/FauziMaulana/LearnSQL/blob/master/Working%20With%20A%20SQLite%20Database%202.ipynb)                                         | Working with Python and the SQLite command line tool (SQLite Command Shell) to connect to the database, extract data, and perform analysis on the data.                               |
+| [Calculating Summary Statistics in SQL](http://nbviewer.jupyter.org/github/FauziMaulana/LearnSQL/blob/master/Calculating%20Summary%20Statistics%20in%20SQL.ipynb)                                   | Calculating summary statistics in SQL to better understand population data and projecting the following year's population for each country using SQL arithmetic.                      |
+| [Preparing Data and Add it to a SQLite Database](http://nbviewer.jupyter.org/github/FauziMaulana/LearnSQL/blob/master/Preparing%20Data%20and%20Add%20it%20to%20a%20SQLite%20Database.ipynb)         | Preparing CSV datasets and read them into SQLite. Clean a CSV dataset and add it to a SQLite database                                                                                 |
+| [Creating Relations In SQLite](http://nbviewer.jupyter.org/github/FauziMaulana/LearnSQL/blob/master/Creating%20Relations%20In%20SQLite.ipynb)                                                       | Normalize data using relations in SQLite. Normalize our single table into multiple tables and how to create relations between them.                                                   |
+| [Using PostgreSQL](http://nbviewer.jupyter.org/github/FauziMaulana/LearnSQL/blob/master/Using%20PostgreSQL.ipynb)                                                                                   | Exploring the basics of PostgreSQL, and how to use it from Python, and Working with PostgreSQL from the command line. Creating a database, querying data, and some advanced features. |
+| [Analyzing Financial Services Consumer Complaints Data](http://nbviewer.jupyter.org/github/FauziMaulana/LearnSQL/blob/master/Analyzing%20Financial%20Services%20Consumer%20Complaints%20Data.ipynb) | Using PostgreSQL to analyzing the data and discovering valuable insights                                                                                                              |
+| [Analyzing Bike-Sharing Service Hubway Data using SQL](http://nbviewer.jupyter.org/github/FauziMaulana/LearnSQL/blob/master/Analyzing%20Bike-Sharing%20Service%20Hubway%20Data%20using%20SQL.ipynb) | Analyzing Bike-Sharing Service Hubway Data using SQLite library to connect the database, extract data, and perform analysis on the data.                                              |
